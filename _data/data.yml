@@ -32,9 +32,6 @@ sidebar:
       - idiom: English
         level: beginner
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Making anything
         link:
@@ -42,56 +39,26 @@ sidebar:
       - item: Singing
         link:
 
-      - item: 
-        link:
-
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    title: 
+    summary: 
+    
 education:
     - degree: BSc in Electronics Engineering
       university: kyungpook National University
       time: 2019 - 2021
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
+      
     - degree: BSc in Aviation Electronics Engineering
       university: Hanseo University
       time: 2014 - 2019
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      details: 
+      
 experiences:
     - role: 
       time: 
       company: 
-      details: |
-        
-    - role: 
-      time: 
-      company:
-      details: |
-        
-    - role: 
-      time: 
-      company: 
-      details: |
+      details: 
         
 projects:
     title: 
@@ -101,21 +68,6 @@ projects:
         link: 
         tagline: 
 
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-        
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
 
 publications:
     title: 
@@ -127,15 +79,6 @@ publications:
         authors:
         conference: 
 
-      - title: 
-        link: 
-        authors:
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
 
 skills:
     title: 
