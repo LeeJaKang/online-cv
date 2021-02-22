@@ -32,9 +32,6 @@ sidebar:
       - idiom: English
         level: beginner
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Making anything
         link:
@@ -42,18 +39,11 @@ sidebar:
       - item: Singing
         link:
 
-      - item: 
-        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    title: 
+    summary:
+    
 education:
     - degree: BSc in Electronics Engineering
       university: kyungpook National University
@@ -81,41 +71,19 @@ experiences:
     - role: 
       time: 
       company: 
-      details: |
+      details:
         
-    - role: 
-      time: 
-      company:
-      details: |
-        
-    - role: 
-      time: 
-      company: 
-      details: |
+
         
 projects:
     title: 
     intro: 
+    
     assignments:
       - title: 
         link: 
         tagline: 
 
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-        
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
 
 publications:
     title: 
@@ -125,16 +93,6 @@ publications:
       - title: 
         link:
         authors:
-        conference: 
-
-      - title: 
-        link: 
-        authors:
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
         conference: 
 
 skills:
